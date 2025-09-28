@@ -1,10 +1,10 @@
-# Collaborative Code Editor
+Real-Time Coding Workspace
 
-A real-time collaborative code editor enabling multiple users to code together in shared rooms. Designed for seamless teamwork, it supports live code editing, file management, chat, and code execution in a modern web interface.
+A real-time coding workspace enabling multiple users to code together in shared rooms. Designed for seamless teamwork, it supports live code editing, file management, chat, and code execution in a modern web interface.
 
 ## Features
 
-- Real-time collaborative editing with multi-user presence
+- Real-time coding with multi-user presence
 - File and folder management (create, edit, delete, organize)
 - Syntax highlighting and language auto-detection
 - In-browser code execution
