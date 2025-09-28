@@ -14,7 +14,8 @@ cat > "$APP_DIR/.env" << EOF
 PORT=5001
 JUDGE0_API_BASE_URL=https://judge0-ce.p.rapidapi.com
 JUDGE0_API_KEY=c8ef551d52msh8afd9eaf59e8fc4p1b0b3djsnc8e9e93065f1
-DATABASE_URL=mongodb+srv://rohanwagh52005:6iIDo7fC20778zWL@cluster0.c70xh.mongodb.net/CodeEditor
+DATABASE_URL="
+
 JWT_SECRET=secret
 
 EMAIL_USER=luciferth12@gmail.com
